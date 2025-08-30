@@ -1,0 +1,41 @@
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\Mega Stock.exe
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\Mega Stock.deps.json
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\Mega Stock.runtimeconfig.json
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\Mega Stock.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\Mega Stock.pdb
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\Google.Protobuf.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\MySql.Data.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\System.Text.Json.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\ZstdSharp.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\bin\Release\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.vbproj.AssemblyReference.cache
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega_Stock.Form1.resources
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega_Stock.Dashboard.resources
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega_Stock.Resources.resources
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega_Stock.UC_AddStock.resources
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega_Stock.UC_AdminProfile.resources
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega_Stock.UC_Analysis.resources
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega_Stock.UC_Home.resources
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega_Stock.UC_Orders.resources
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.vbproj.GenerateResource.cache
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.AssemblyInfoInputs.cache
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.AssemblyInfo.vb
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.vbproj.CoreCompileInputs.cache
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.vbproj.Up2Date
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\refint\Mega Stock.dll
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.pdb
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\Mega Stock.genruntimeconfig.cache
+C:\Users\High Priest\source\repos\Mega Stock\Mega Stock\obj\Release\net8.0-windows\ref\Mega Stock.dll
